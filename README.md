@@ -1,0 +1,1 @@
+# Osteoporosis_Detection_Model_In_Menopausal_Women
